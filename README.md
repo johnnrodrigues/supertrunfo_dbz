@@ -1,0 +1,1 @@
+A card game with anime characters of Dragon Ball Z
